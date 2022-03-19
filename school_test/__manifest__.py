@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-1232
+# -*- coding: utf-8 -*-12321
 {
     'name': "schoo_test",
     'name_vi_VN': "",
