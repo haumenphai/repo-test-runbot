@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "schoo_testz x",
+    'name': "schoo_testz 15",
     'name_vi_VN': "",
 
     'summary': """
