@@ -3,3 +3,4 @@
 from . import controllers
 from . import models
 print('ggg')
+raise Exception('abc-xyz-gtm-qwerty')
