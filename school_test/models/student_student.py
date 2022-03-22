@@ -45,9 +45,9 @@ class StudentStudent(models.Model):
         # |, name = 'Student' 3, & age =17, scores =9, age
         print('test')
 
-s=[
-    ('id','!=',id), '|',
-        '&', ('mode','=','employee'), ('department_id','=', department_id),
-        '&', ('mode', '=', 'department'), ('company_id','=', company_id)
-]
-l = ['|', '&', ('id', '=', 1), ('name', '=', 'xx'), ('id', '=', '2')]
+# s=[
+#     ('id','!=',id), '|',
+#         '&', ('mode','=','employee'), ('department_id','=', department_id),
+#         '&', ('mode', '=', 'department'), ('company_id','=', company_id)
+# ]
+# l = ['|', '&', ('id', '=', 1), ('name', '=', 'xx'), ('id', '=', '2')]
