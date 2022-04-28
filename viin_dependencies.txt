@@ -1,1 +1,1 @@
-https://github.com/haumenphai/repo-test-runbot2.git#14.0
+https://github.com/Viindoo/saas-infrastructure.git#14.0
