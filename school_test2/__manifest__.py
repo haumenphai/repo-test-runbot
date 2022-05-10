@@ -81,7 +81,7 @@ Tính năng chính
     'images' : [
     	# 'static/description/main_screenshot.png'
     	],
-    'installable': False, # set to True when upg to 15.0
+    'installable': True,
     'application': False,
     'auto_install': False,
     'price': 99.9,
