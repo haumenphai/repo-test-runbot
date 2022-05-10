@@ -74,7 +74,6 @@ Tính năng chính
     'depends': ['base'],
     'data': [
         'security/ir.model.access.csv',
-        'views/student_student_view.xml',
     ],
     'demo': [
         # 'demo/demo.xml',
