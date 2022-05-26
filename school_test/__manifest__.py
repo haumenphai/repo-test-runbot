@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-12321
 {
     'name': "schoo_test",
-    'name_vi_VN': "Hello",
+    'name_vi_VN': "",
 
     'summary': """
 Short (1 phrase/line) summary of the module's purpose, used as
